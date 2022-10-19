@@ -1,0 +1,17 @@
+{
+    "category":"Amazing views",
+    "minPrice":"",
+    "maxPrice":"",
+    "Typeofplace":"Private room",
+    "bedRooms":"1",
+    "beds":"2",
+    "bathRoom":"1",
+    "propertyType":"Hotel",
+    "basicAmenities":["Wifi","Washing machine","Air conditioning","Kitchen"],
+    "hostLanguage":["English","Hindi"],
+    "hotelPlace":"Kandy, Sri Lanka",
+    "monthYear":"October 2022",
+    "day":"30",
+    "noOfDay":4
+
+}
