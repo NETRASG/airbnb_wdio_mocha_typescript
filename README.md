@@ -1,1 +1,2 @@
 # airbnb_wdio_mocha_typescript
+typescript
