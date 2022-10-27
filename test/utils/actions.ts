@@ -1,5 +1,5 @@
 class Action {
-    async setText(locator: ChainablePromiseElement<WebdriverIO.Element>, inputText) {
+    async setText(locator: ChainablePromiseElement< WebdriverIO.Element>, inputText) {
         await (await locator).setValue(inputText);
     }
     async Click(locator: ChainablePromiseElement<WebdriverIO.Element>) {

@@ -18,6 +18,7 @@
         "wdio-chromedriver-service": "^8.0.0"
     },
     "scripts": {
-        "wdio": "wdio run test/wdio.conf.ts"
+        "wdio": "wdio run test/wdio.conf.ts",
+        "report":"allure generate allure-results --clean && allure open"
     }
 }
